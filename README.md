@@ -3,8 +3,8 @@
 
 
 ## 初始化安装依赖
-npm install 
+`npm install`
 
 ## 测试
-npm run test
+`npm run test`
 为方便测试，放了一些文件，并在test.js里配置了我个人的域名和ftp账户密码，供用兴趣的读者测试
