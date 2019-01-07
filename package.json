@@ -1,0 +1,28 @@
+{
+  "name": "ftp-loader",
+  "version": "1.0.2",
+  "description": "a ftp loader in nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderlaw/ftp-loader.git"
+  },
+  "keywords": [
+    "ftp",
+    "loader",
+    "transfer"
+  ],
+  "author": "hajerbin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anderlaw/ftp-loader/issues"
+  },
+  "homepage": "https://github.com/anderlaw/ftp-loader#readme",
+  "dependencies": {
+    "ftp": "^0.3.10",
+    "ora": "^3.0.0"
+  }
+}
